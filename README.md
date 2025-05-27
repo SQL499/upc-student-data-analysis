@@ -1,6 +1,6 @@
 # 📊 Análisis y Predicción del Comportamiento Estudiantil UPC
 
-Este proyecto de ciencia de datos analiza y predice el comportamiento de más de **72,000 estudiantes** de la Universidad Peruana de Ciencias Aplicadas (UPC), enfocándose en su uso del correo institucional. Se parte de un dataset real con datos anonimizado(utilizando datos ficticios para no exponer ningun dato real de algun alumno), se limpia, explora, modela y visualiza, aplicando buenas prácticas de ciencia de datos.
+Este proyecto de ciencia de datos analiza y predice el comportamiento de más de **72,000 estudiantes** de la Universidad Peruana de Ciencias Aplicadas (UPC), enfocándose en su uso del correo institucional. Se parte de un dataset real con datos anonimizados (utilizando datos ficticios) para no exponer ningun dato real de algun alumno), se limpia, explora, modela y visualiza, aplicando buenas prácticas de ciencia de datos.
 
 ---
 
@@ -13,6 +13,7 @@ Predecir si un estudiante **usará su correo institucional o no** en base a sus 
 ## 📁 Estructura del proyecto
 
 upc-student-data-analysis/
+
 ├── data/
 
 │ ├── raw/ # Dataset original
