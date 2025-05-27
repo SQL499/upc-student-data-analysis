@@ -93,7 +93,7 @@ upc-student-data-analysis/
 ## 🔐 Consideraciones de privacidad
 
 Este proyecto se realizó con fines educativos y de investigación personal.  
-El dataset original fue obtenido de una filtración pública ocurrida hace años.  
+El dataset original fue obtenido de una filtración pública ocurrida hace mucho tiempo.  
 **No se ha subido ningún dato sensible a este repositorio**, y todos los datos utilizados en este proyecto han sido procesados y anonimizados.  
 El autor no tiene relación con la filtración original ni con el uso indebido de los datos.
 
