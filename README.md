@@ -14,15 +14,23 @@ Predecir si un estudiante **usará su correo institucional o no** en base a sus 
 
 upc-student-data-analysis/
 ├── data/
-│ ├── raw/ # Datos originales (no públicos)
+
+│ ├── raw/ # Dataset original
+
 │ └── processed/ # Datos limpios y modelados
+
 ├── notebooks/
+
 │ ├── 01_EDA.ipynb # Exploración inicial
+
 │ ├── 02_Cleaning.ipynb # Limpieza y preprocesamiento
+
 │ └── 03_Modeling.ipynb # Modelado predictivo
-├── models/ # Modelos entrenados (.pkl)
-├── dashboards/ # (Opcional) Visualizaciones con Streamlit
+
+├── dashboards/ # Visualizaciones con Streamlit
+
 ├── reports/ # Documentación técnica y hallazgos
+
 └── README.md # Este archivo
 
 
