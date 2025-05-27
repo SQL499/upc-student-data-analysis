@@ -38,12 +38,12 @@ upc-student-data-analysis/
 
 ## 🔍 Tecnologías utilizadas
 
-- **Python 3.12**
+- **Python 3.x.x**
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn (Random Forest, validación)
 - pathlib y joblib para manejo de rutas y serialización
 - Jupyter Notebooks
-- (Opcional) Streamlit para dashboards
+- Streamlit para dashboards
 
 ---
 
