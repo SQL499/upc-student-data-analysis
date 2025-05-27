@@ -1,6 +1,6 @@
 # 📊 Análisis y Predicción del Comportamiento Estudiantil UPC
 
-Este proyecto de ciencia de datos analiza y predice el comportamiento de más de **72,000 estudiantes** de la Universidad Peruana de Ciencias Aplicadas (UPC), enfocándose en su uso del correo institucional. Se parte de un dataset real con datos anonimizados (utilizando datos ficticios) para no exponer ningun dato real de algun alumno), se limpia, explora, modela y visualiza, aplicando buenas prácticas de ciencia de datos.
+Este proyecto de ciencia de datos analiza y predice el comportamiento de más de **72,000 estudiantes** de la Universidad Peruana de Ciencias Aplicadas (UPC), enfocándose en su uso del correo institucional. Se parte de un dataset real con datos anonimizados (utilizando datos ficticios) para no exponer ningun dato real de algun alumno, se limpia, explora, modela y visualiza, aplicando buenas prácticas de ciencia de datos.
 
 ---
 
@@ -42,7 +42,7 @@ upc-student-data-analysis/
 - **Python 3.x.x**
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn (Random Forest, validación)
-- pathlib y joblib para manejo de rutas y serialización
+- pathlib para manejo de rutas
 - Jupyter Notebooks
 - Streamlit para dashboards
 
@@ -67,7 +67,8 @@ upc-student-data-analysis/
    - Precisión y recall  
    - Interpretación de los resultados
 
-6. **(Opcional)**: Desarrollo de un dashboard interactivo.
+6. **Dashboard interactivo**
+   Hecho en streamlit para mejor presentacion de los resultados y evaluaciones hechas.
 
 ---
 
