@@ -68,7 +68,6 @@ upc-student-data-analysis/
    - Interpretación de los resultados
 
 6. **Dashboard interactivo**
-   Hecho en streamlit para mejor presentacion de los resultados y evaluaciones hechas.
 
 ---
 
